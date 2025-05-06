@@ -31,7 +31,7 @@ We use `llama-2-7b-chat.Q4_K_M.gguf`, a 7B parameter model from LLaMA 2—optimi
 - LangChain
 - llama-cpp-python
 - Streamlit
-- PyMuPDF / pdfplumber
+- Jupyter notebook (optional)
 
 ---
 
