@@ -1,0 +1,7 @@
+## Download the Llama 2 Model:
+
+Llama-2-7B-Chat-GGUF 
+
+
+## From the following link:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
