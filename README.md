@@ -34,7 +34,7 @@ We use `llama-2-7b-chat.Q4_K_M.gguf`, a 7B parameter model from LLaMA 2—optimi
 ## 📂 Folder Structure
 .
 ├── data/
-│   └── downloadmedicalbook.txt            # Raw text data from medical book
+    └── downloadmedicalbook.txt            # Raw text data from medical book
 ├── model/
 │   └── instructions.txt                   # Instructions or metadata for the model
 ├── .gitignore                             # Git ignore file
