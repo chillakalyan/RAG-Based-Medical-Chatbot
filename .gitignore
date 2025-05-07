@@ -1,0 +1,22 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore large model files
+model/
+
+# Ignore vectorstore FAISS index
+vectorstore/
+
+# Ignore data files (e.g., large PDFs)
+data/
+
+# Ignore Jupyter checkpoint files
+**/.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
