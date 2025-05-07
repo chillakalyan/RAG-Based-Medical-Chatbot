@@ -32,5 +32,19 @@ We use `llama-2-7b-chat.Q4_K_M.gguf`, a 7B parameter model from LLaMA 2—optimi
 ---
 
 ## 📂 Folder Structure
+.
+├── data/
+│   └── downloadmedicalbook.txt            # Raw text data from medical book
+├── model/
+│   └── instructions.txt                   # Instructions or metadata for the model
+├── .gitignore                             # Git ignore file
+├── LICENSE                                # MIT License
+├── README.md                              # Project overview and details
+├── connect_memory_with_llm.ipynb          # Notebook to connect vector memory with LLM
+├── create_memory_for_llm.ipynb            # Notebook to create memory using FAISS
+├── medibot.py                             # Main chatbot logic
+├── requirements.txt                       # Required Python packages
+
+
 
 
